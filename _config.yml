@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Barradas
+subtitle: 'Barradas Public Notebooks'
+description: 'Here I share my notes and works, feel free to read it and share with other friends the only restriction is that you cannot sell anything that is here.'
 keywords:
-author: John Doe
+author: Felipe Barradas
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://Barradas13.github.io
 root: /
 permalink: /p/:abbrlink/
 permalink_defaults:
